@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "username": "marc",
+      "password": "marc%456"
+    },
+    {
+      "id": 2,
+      "username": "lesley",
+      "password": "lesley%456"
+    },
+  ]
 }
+
+
